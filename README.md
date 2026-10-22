@@ -1,4 +1,4 @@
-# carbon-linux# Carbon
+## Carbon
 
 Carbon is a Linux distribution built around one idea: your operating system should only use what you actually need.
 
